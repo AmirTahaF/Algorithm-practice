@@ -1,20 +1,19 @@
-# 🐍 Python Algorithms Collection
+# 🚀 Algorithm Exercises
 
-Welcome to **Python Algorithms Collection**!  
-Here you can find code implementations of different algorithms in Python — simple, clean, and ready to use whenever you need them!
+Welcome to my Algorithm Exercises repository!
 
----
+This repo contains various algorithm problems and practice exercises that I'm solving to improve my programming and problem-solving skills. You'll find implementations of common algorithms, coding challenges, and different approaches to solving them.
 
-## 💡 About This Repository
-This project contains **Python code for various algorithms**, all written in the **simplest form possible** for easy understanding.  
-It includes algorithms from different areas such as:
-- Sorting and Searching  
-- Recursion and Dynamic Programming  
-- Graph and Tree Algorithms  
-- Math and Number Theory  
-- And many more!
+## 📚 Topics
+- Sorting
+- Searching
+- Recursion
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Graphs
+- Dynamic Programming
+- And more...
 
-Each algorithm is short, clear, and beginner-friendly — perfect for:
-- Students learning the basics of algorithms  
-- Developers preparing for coding interviews  
-- Anyone who wants easy-to-read and reusable code snippets  
+## 🎯 Goal
+The main purpose of this repository is to learn, practice, and build a stronger understanding of algorithms and data structures.
